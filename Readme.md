@@ -1,1 +1,1 @@
-<h2>Code and Output is available in Output.docx file</h2>
+[Code and Output are available in Output.docx file](https://github.com/tanmaya0102/JavaAssignment/blob/main/Output.docx)
